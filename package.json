@@ -1,0 +1,14 @@
+{
+	"author": "Carlos Ferreras",
+	"license": "MIT",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"axios": "^0.26.0",
+		"discord.js": "^13.6.0",
+		"dotenv": "^5.0.0",
+		"express": "^4.17.3",
+		"node": "^16.13.2"
+	}
+}
